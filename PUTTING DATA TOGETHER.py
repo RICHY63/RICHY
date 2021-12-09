@@ -234,7 +234,7 @@ myseries6_filled2 = myseries6.fillna(myseries6.median())
 myseries6_filled2
 
 
-# In[ ]:
+# In[ ]:print()
 
 
 
